@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C3AC4791-0176-DC7D-CEC0-68DDB0892E48}") = "Ultra Spacetron", "Assembly-CSharp.csproj", "{FE3FEA56-7B23-6D4E-BE56-F504AC950F26}"
+EndProject
+Project("{C3AC4791-0176-DC7D-CEC0-68DDB0892E48}") = "Ultra Spacetron", "Assembly-CSharp-Editor.csproj", "{3272F735-DF79-F028-72E9-1858923096A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE3FEA56-7B23-6D4E-BE56-F504AC950F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3FEA56-7B23-6D4E-BE56-F504AC950F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3FEA56-7B23-6D4E-BE56-F504AC950F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3FEA56-7B23-6D4E-BE56-F504AC950F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3272F735-DF79-F028-72E9-1858923096A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3272F735-DF79-F028-72E9-1858923096A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3272F735-DF79-F028-72E9-1858923096A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3272F735-DF79-F028-72E9-1858923096A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
